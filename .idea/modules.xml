@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ClassManagementSystem.iml" filepath="$PROJECT_DIR$/ClassManagementSystem.iml" />
+      <module fileurl="file://C:\Users\dell\Desktop\ClassManagementSystem\ClassManagementSystem.iml" filepath="C:\Users\dell\Desktop\ClassManagementSystem\ClassManagementSystem.iml" />
       <module fileurl="file://D:\phone\three\ClassManagementSystem\ClassManagementSystem.iml" filepath="D:\phone\three\ClassManagementSystem\ClassManagementSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\dell\Desktop\ClassManagementSystem\app\app.iml" filepath="C:\Users\dell\Desktop\ClassManagementSystem\app\app.iml" />
       <module fileurl="file://D:\phone\three\ClassManagementSystem\app\app.iml" filepath="D:\phone\three\ClassManagementSystem\app\app.iml" />
     </modules>
   </component>
